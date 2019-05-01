@@ -1,12 +1,12 @@
-Macro's
+Macros
 =============================
-SimpleCV has the ability to use macro's built in.
+SimpleCV has the ability to use macros built in.
 
 If you aren't familiar with a macro, it's basically a way
 to define a set of programming events to happen with just
 using a single command.
 
-In our case our macro's will be built off the history of commands
+In our case our macros will be built off the history of commands
 that we use in the shell.  This helps us test things that work, and what
 doesn't.
 
